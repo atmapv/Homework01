@@ -90,6 +90,13 @@ font-family: 'Georgia', Times, 'Times New Roman', serif;
     margin-bottom: 30px;
   }
 
+  .portfolio{
+    float: left;
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+
 .copyright{
     text-align: center;
 }
