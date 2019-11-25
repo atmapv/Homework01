@@ -67,6 +67,7 @@ font-family: 'Georgia', Times, 'Times New Roman', serif;
 .name{
   float: left;
   margin-left: 166px;
+  margin-right: 100px;
   position: absolute;
   line-height: 10px;
   top: 0px;
@@ -76,6 +77,11 @@ font-family: 'Georgia', Times, 'Times New Roman', serif;
   height: 51px;
   color: white;
   background: #4aaaa5;
+}
+
+.buffer{
+  width: 250px;
+  height: 51px;
 }
 
 .main{
